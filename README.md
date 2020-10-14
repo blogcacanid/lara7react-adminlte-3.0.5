@@ -1,7 +1,7 @@
 # lara7react-adminlte-3.0.5
 Integrasi AdminLTE 3.0.5 Laravel 7 Dan React JS
 
-https://blog.cacan.id/integrasi-adminlte-3-0-5-laravel-7-dan-react-js
+https://cacan.id/integrasi-adminlte-3-0-5-laravel-7-dan-react-js
 
 ![000](https://user-images.githubusercontent.com/51890752/95983575-0d65a280-0e4c-11eb-97cc-1bb82b97e346.jpg)
 
