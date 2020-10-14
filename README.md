@@ -22,6 +22,7 @@ https://blog.cacan.id/integrasi-adminlte-3-0-5-laravel-7-dan-react-js
 
 ## Download AdminLTE 3.0.5
 Selanjutnya kita download AdminLTE 3.0.5 disini:
+
 		https://github.com/ColorlibHQ/AdminLTE/archive/v3.0.5.zip
 		https://drive.google.com/file/d/1gbiTIUxC3CcYPaz8Zt-82OEWZokzISg4/view?usp=sharing
 
@@ -31,9 +32,11 @@ Kemudian kita ekstrak file AdminLTE 3.0.5.zip ke directory project kita pada fol
 
 ## Testing
 Dari command prompt ketikkan perintah berikut:
+
 		npm run wacth
 
 Selanjutnya jalankan Laravel 7 dengan perintah berikut:
+
 		php artisan serve
 
 Lalu buka browser dan ketikkan URL http://localhost:8000
